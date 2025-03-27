@@ -1,3 +1,8 @@
+How to run ?
+1. First clone the repository.
+2. Then, run command npm i (to install all the dependencies).
+3. After, this run command npm run dev to start the project.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
